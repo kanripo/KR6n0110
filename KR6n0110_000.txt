@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 王法正理論
+#+DATE: 2015-08-30 20:58:27.917285
+#+PROPERTY: JUAN 0
