@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:27.652483
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:46
 #+TITLE: 王法正理論
 #+PROPERTY: CBETA_ID T31n1615
 #+PROPERTY: ID KR6n0110
